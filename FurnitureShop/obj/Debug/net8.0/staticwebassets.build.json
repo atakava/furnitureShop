@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "WQdM5ABfnOi7PV2kttHUsy0G6hxDaf7fwuNVyQggQfA=",
+  "Source": "FurnitureShop",
+  "BasePath": "_content/FurnitureShop",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FurnitureShop\\wwwroot",
+      "Source": "FurnitureShop",
+      "ContentRoot": "C:\\Users\\vgama\\Desktop\\furniture\\FurnitureShop\\FurnitureShop\\wwwroot\\",
+      "BasePath": "_content/FurnitureShop",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
